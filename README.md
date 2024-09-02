@@ -10,3 +10,5 @@ Calculate Total: Simply click on the "Total" button to automatically compute the
 Generate Bill: Hit the "Generate" button to create a detailed bill, which will be displayed in the designated bill area.
 
 Save Bill: The software intelligently checks the specified directory path. If the path exists, it saves the bill directly there. If not, it creates the necessary directory structure before saving the file.
+
+![Screenshot (4)](https://github.com/user-attachments/assets/0d3a9923-3b98-4dad-8bf3-f0ea875ecc58)
